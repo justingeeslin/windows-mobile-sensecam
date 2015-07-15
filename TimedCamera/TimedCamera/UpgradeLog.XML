@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TimedCamera">
+</Property><Property Name="Solution File" Value="C:\Users\JG\Documents\Public Documents\Projects\C++ &amp; C#\MobileCapture\TimedCamera\TimedCamera\TimedCamera.sln">
+</Property><Property Name="Date" Value="Tuesday, January 19, 2010">
+</Property><Property Name="Time" Value="23:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="TimedCamera" Source="TimedCamera\TimedCamera.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TimedCamera" Source="TimedCamera\TimedCamera.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CameraCaptureDLL" Source="CameraCaptureDLL\CameraCaptureDLL.vcproj" Description="ATL Server support has been removed from this version of Visual Studio. In case your ATL Project uses any ATL Server functionality, your project may not build. Please consult the MSDN documentation for a list of alternatives.">
+</Event><Event ErrorLevel="1" Project="CameraCaptureDLL" Source="CameraCaptureDLL\CameraCaptureDLL.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="CameraCaptureDLL" Source="CameraCaptureDLL\CameraCaptureDLL.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="CameraCaptureDLL" Source="CameraCaptureDLL\CameraCaptureDLL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TimedCamera.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TimedCamera.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TimedCamera" Source="TimedCamera\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="TimedCamera" Source="TimedCamera\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TimedCamera" Source="TimedCamera\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="TimedCamera" Source="TimedCamera\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TimedCamera" Source="TimedCamera\TimedCamera.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

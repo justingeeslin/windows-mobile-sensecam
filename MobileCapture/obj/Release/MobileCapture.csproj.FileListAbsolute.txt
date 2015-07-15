@@ -1,0 +1,15 @@
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\MobileCamera.dll
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\Mobile Capture.exe
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\Mobile Capture.pdb
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\Microsoft.WindowsMobile.Forms.dll
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\Microsoft.WindowsMobile.dll
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\Microsoft.WindowsMobile.xml
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\bin\Release\Microsoft.WindowsMobile.Forms.xml
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\obj\Release\ResolveAssemblyReference.cache
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\obj\Release\MobileCapture.MainForm.resources
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\obj\Release\MobileCapture.Properties.Resources.resources
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\obj\Release\MobileCapture.csproj.GenerateResource.Cache
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\obj\Release\Mobile Capture.exe
+C:\Users\JG\Documents\Public Documents\Projects\C++ & C#\MobileCapture\MobileCapture\obj\Release\Mobile Capture.pdb

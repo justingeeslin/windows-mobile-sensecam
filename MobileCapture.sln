@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileCapture", "MobileCapture\MobileCapture.csproj", "{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "MobileCaptureInstaller", "MobileCaptureInstaller\MobileCaptureInstaller.vddproj", "{501E5B98-1018-40DD-B2CB-F2FA8D08E163}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AFB71FC-A1E4-406B-A035-6A6E064A191F}"
+	ProjectSection(SolutionItems) = preProject
+		MobileCamera.dll = MobileCamera.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Windows Mobile 6 Professional SDK (ARMV4I) = Debug|Windows Mobile 6 Professional SDK (ARMV4I)
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Windows Mobile 6 Professional SDK (ARMV4I) = Release|Windows Mobile 6 Professional SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Debug|Windows Mobile 6 Professional SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{BC51B6A9-A95D-4809-9A74-F9213BED7F2F}.Release|Windows Mobile 6 Professional SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{501E5B98-1018-40DD-B2CB-F2FA8D08E163}.Debug|Any CPU.ActiveCfg = Debug
+		{501E5B98-1018-40DD-B2CB-F2FA8D08E163}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{501E5B98-1018-40DD-B2CB-F2FA8D08E163}.Debug|Windows Mobile 6 Professional SDK (ARMV4I).ActiveCfg = Debug
+		{501E5B98-1018-40DD-B2CB-F2FA8D08E163}.Release|Any CPU.ActiveCfg = Release
+		{501E5B98-1018-40DD-B2CB-F2FA8D08E163}.Release|Mixed Platforms.ActiveCfg = Release
+		{501E5B98-1018-40DD-B2CB-F2FA8D08E163}.Release|Windows Mobile 6 Professional SDK (ARMV4I).ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
